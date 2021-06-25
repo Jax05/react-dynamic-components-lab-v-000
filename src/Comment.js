@@ -1,5 +1,5 @@
 //your code here
-import React, { Components }
+import React, { Component } from 'react'
 
 class Comment extends Component {
   render() {
