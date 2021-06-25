@@ -4,7 +4,7 @@ export default class ColorBox extends Component {
 
   state = {
     todos: [
-      
+
     ]
   }
 
@@ -21,4 +21,3 @@ export default class ColorBox extends Component {
   }
 
 }
-
