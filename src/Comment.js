@@ -1,4 +1,6 @@
 //your code here
+import React, { Components }
+
 class Comment extends Component {
   render() {
     return (
